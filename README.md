@@ -382,10 +382,10 @@ MIT License - Feel free to use this template for personal and commercial project
 
 ## 📞 Contact
 
-Created by [Your Name] - Senior iOS Developer
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [your.email@domain.com]
-- GitHub: [@yourusername]
+Created by Manikandan Kasinathan - Senior iOS Developer
+- LinkedIn: https://www.linkedin.com/in/androidmanikandan/
+- Email: manimca5689@gmail.com
+- GitHub: https://github.com/AndroidManikandan5689
 
 ---
 
