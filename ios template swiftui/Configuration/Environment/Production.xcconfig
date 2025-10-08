@@ -1,0 +1,35 @@
+//
+// Production.xcconfig
+//
+
+// Bundle Identifier
+PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.template
+
+// App Name
+APP_NAME = Template
+
+// API Configuration
+API_BASE_URL = https:\/\/api.yourcompany.com
+API_VERSION = v1
+
+// Feature Flags
+ENABLE_LOGGING = NO
+ENABLE_DEBUG_MENU = NO
+ENABLE_CRASH_REPORTING = YES
+
+// Third Party Keys
+ANALYTICS_KEY = prod_analytics_key
+CRASHLYTICS_KEY = prod_crashlytics_key
+
+// Build Settings
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE
+GCC_PREPROCESSOR_DEFINITIONS = RELEASE=1 $(inherited)
+ENABLE_TESTABILITY = NO
+ONLY_ACTIVE_ARCH = NO
+
+// Code Signing
+CODE_SIGN_STYLE = Manual
+DEVELOPMENT_TEAM = your_team_id
+
+// Other Settings
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
